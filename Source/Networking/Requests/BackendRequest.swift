@@ -13,7 +13,7 @@ enum BackendPath: CustomStringConvertible {
   var description: String {
     switch self {
     case .redemption:
-      return "v3/redemptions"
+      return "redemptions"
     }
   }
 }
