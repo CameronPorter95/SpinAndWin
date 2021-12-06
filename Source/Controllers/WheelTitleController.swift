@@ -2,8 +2,6 @@
 //  WheelTitleController.swift
 //  SpinAndWin
 //
-//  Created by OrbitRemit LAP048 on 3/12/19.
-//
 
 import SpriteKit
 import Macaw

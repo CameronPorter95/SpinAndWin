@@ -23,8 +23,7 @@ class WheelScene: SKScene, SKPhysicsContactDelegate {
   func spin() {
     guard let wheel = wheel,
     wheel.isSpinning == false,
-    let wheelView = view as? WheelView,
-    wheelView.spinAndWinProvider?.section == nil else { return }
+    let wheelView = view as? WheelView else { return }
     wheel.physicsBody?.applyAngularImpulse(5)
     wheel.physicsBody?.angularDamping = 0.0
     wheel.isSpinning = true
@@ -63,9 +62,7 @@ class WheelScene: SKScene, SKPhysicsContactDelegate {
     guard let touch = touches.first,
     let wheel = wheel,
     let touchInfo = touchInfo,
-    !wheel.isSpinning,
-    let wheelView = view as? WheelView,
-    wheelView.spinAndWinProvider?.section == nil else {
+    !wheel.isSpinning else {
       return
     }
     

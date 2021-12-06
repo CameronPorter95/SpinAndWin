@@ -2,8 +2,6 @@
 //  WheelController.swift
 //  SpinAndWin
 //
-//  Created by OrbitRemit LAP048 on 18/11/19.
-//
 
 import UIKit
 import Moya

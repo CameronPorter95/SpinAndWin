@@ -8,12 +8,16 @@ import Moya
 import Alamofire
 
 enum BackendPath: CustomStringConvertible {
-  case redemption
+  case redemption(String?)
 
   var description: String {
     switch self {
-    case .redemption:
-      return "redemptions"
+    case .redemption(let stub):
+      if let stub = stub {
+        return "redemptions/\(stub)"
+      } else {
+        return "redemptions"
+      }
     }
   }
 }

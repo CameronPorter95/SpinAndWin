@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "32E9816F2759C9FF00B963A0"
-               BuildableName = "SpinAndWin copy.app"
+               BuildableName = "SpinAndWinStubs.app"
                BlueprintName = "SpinAndWinStubs"
                ReferencedContainer = "container:SpinAndWin.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "32E9816F2759C9FF00B963A0"
-            BuildableName = "SpinAndWin copy.app"
+            BuildableName = "SpinAndWinStubs.app"
             BlueprintName = "SpinAndWinStubs"
             ReferencedContainer = "container:SpinAndWin.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "32E9816F2759C9FF00B963A0"
-            BuildableName = "SpinAndWin copy.app"
+            BuildableName = "SpinAndWinStubs.app"
             BlueprintName = "SpinAndWinStubs"
             ReferencedContainer = "container:SpinAndWin.xcodeproj">
          </BuildableReference>

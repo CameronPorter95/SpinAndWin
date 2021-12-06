@@ -1,0 +1,24 @@
+{
+  "data": {
+    "type": "redemptions",
+    "id": "1",
+    "attributes": {
+      "customer_id": "1"
+    },
+    "relationships": {
+      "prize": {
+        "data": {
+          "type": "prizes",
+          "id": "1"
+        }
+      }
+    }
+  },
+  "included": [{
+    "type": "prizes",
+    "id": "1",
+    "attributes": {
+      "category": "a scooter"
+    }
+  }]
+}

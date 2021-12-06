@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		32874196275DD413007E0B3A /* redemptions.scooter.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 32874195275DD413007E0B3A /* redemptions.scooter.POST.json */; };
+		32874197275DD413007E0B3A /* redemptions.scooter.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 32874195275DD413007E0B3A /* redemptions.scooter.POST.json */; };
+		32874199275DD43C007E0B3A /* redemptions.free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 32874198275DD43C007E0B3A /* redemptions.free_transfer.POST.json */; };
+		3287419A275DD43C007E0B3A /* redemptions.free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 32874198275DD43C007E0B3A /* redemptions.free_transfer.POST.json */; };
+		3287419C275DD44F007E0B3A /* redemptions.2_free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 3287419B275DD44F007E0B3A /* redemptions.2_free_transfer.POST.json */; };
+		3287419D275DD44F007E0B3A /* redemptions.2_free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 3287419B275DD44F007E0B3A /* redemptions.2_free_transfer.POST.json */; };
+		3287419F275DD466007E0B3A /* redemptions.3_free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 3287419E275DD466007E0B3A /* redemptions.3_free_transfer.POST.json */; };
+		328741A0275DD466007E0B3A /* redemptions.3_free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 3287419E275DD466007E0B3A /* redemptions.3_free_transfer.POST.json */; };
+		328741A2275DD46D007E0B3A /* redemptions.4_free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 328741A1275DD46D007E0B3A /* redemptions.4_free_transfer.POST.json */; };
+		328741A3275DD46D007E0B3A /* redemptions.4_free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 328741A1275DD46D007E0B3A /* redemptions.4_free_transfer.POST.json */; };
+		328741A5275DD476007E0B3A /* redemptions.5_free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 328741A4275DD476007E0B3A /* redemptions.5_free_transfer.POST.json */; };
+		328741A6275DD476007E0B3A /* redemptions.5_free_transfer.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 328741A4275DD476007E0B3A /* redemptions.5_free_transfer.POST.json */; };
+		328741A9275DD756007E0B3A /* TaDa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 328741A8275DD756007E0B3A /* TaDa.mp3 */; };
+		328741AA275DD756007E0B3A /* TaDa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 328741A8275DD756007E0B3A /* TaDa.mp3 */; };
 		32E980CE275972A900B963A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E980CD275972A900B963A0 /* AppDelegate.swift */; };
 		32E980D0275972A900B963A0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E980CF275972A900B963A0 /* SceneDelegate.swift */; };
 		32E980D7275972AA00B963A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32E980D6275972AA00B963A0 /* Assets.xcassets */; };
@@ -56,7 +70,7 @@
 		32E9814C2759AE3500B963A0 /* AlertError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E9814B2759AE3500B963A0 /* AlertError.swift */; };
 		32E9814E2759B04900B963A0 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E9814D2759B04900B963A0 /* UIView.swift */; };
 		32E981502759B3B700B963A0 /* CGVector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E9814F2759B3B700B963A0 /* CGVector.swift */; };
-		32E981532759C23100B963A0 /* redemptions.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 32E981522759C23100B963A0 /* redemptions.POST.json */; };
+		32E981532759C23100B963A0 /* redemptions.200_off.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 32E981522759C23100B963A0 /* redemptions.200_off.POST.json */; };
 		32E981722759C9FF00B963A0 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E9814D2759B04900B963A0 /* UIView.swift */; };
 		32E981732759C9FF00B963A0 /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E981412759887100B963A0 /* UIViewController.swift */; };
 		32E981742759C9FF00B963A0 /* ProviderController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E9813E275982B000B963A0 /* ProviderController.swift */; };
@@ -97,7 +111,7 @@
 		32E981992759C9FF00B963A0 /* Ticker.svg in Resources */ = {isa = PBXBuildFile; fileRef = 32E9812D27597FB800B963A0 /* Ticker.svg */; };
 		32E9819A2759C9FF00B963A0 /* WheelFull.svg in Resources */ = {isa = PBXBuildFile; fileRef = 32E9813127597FB800B963A0 /* WheelFull.svg */; };
 		32E9819B2759C9FF00B963A0 /* WheelView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 32E98111275976FF00B963A0 /* WheelView.xib */; };
-		32E9819C2759C9FF00B963A0 /* redemptions.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 32E981522759C23100B963A0 /* redemptions.POST.json */; };
+		32E9819C2759C9FF00B963A0 /* redemptions.200_off.POST.json in Resources */ = {isa = PBXBuildFile; fileRef = 32E981522759C23100B963A0 /* redemptions.200_off.POST.json */; };
 		32E9819D2759C9FF00B963A0 /* WheelCentreOR.svg in Resources */ = {isa = PBXBuildFile; fileRef = 32E9812B27597FB700B963A0 /* WheelCentreOR.svg */; };
 		32E9819E2759C9FF00B963A0 /* Congratulations.svg in Resources */ = {isa = PBXBuildFile; fileRef = 32E9812E27597FB800B963A0 /* Congratulations.svg */; };
 		32E9819F2759C9FF00B963A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32E980D8275972AA00B963A0 /* LaunchScreen.storyboard */; };
@@ -113,6 +127,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		32874195275DD413007E0B3A /* redemptions.scooter.POST.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = redemptions.scooter.POST.json; sourceTree = "<group>"; };
+		32874198275DD43C007E0B3A /* redemptions.free_transfer.POST.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = redemptions.free_transfer.POST.json; sourceTree = "<group>"; };
+		3287419B275DD44F007E0B3A /* redemptions.2_free_transfer.POST.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = redemptions.2_free_transfer.POST.json; sourceTree = "<group>"; };
+		3287419E275DD466007E0B3A /* redemptions.3_free_transfer.POST.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = redemptions.3_free_transfer.POST.json; sourceTree = "<group>"; };
+		328741A1275DD46D007E0B3A /* redemptions.4_free_transfer.POST.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = redemptions.4_free_transfer.POST.json; sourceTree = "<group>"; };
+		328741A4275DD476007E0B3A /* redemptions.5_free_transfer.POST.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = redemptions.5_free_transfer.POST.json; sourceTree = "<group>"; };
+		328741A8275DD756007E0B3A /* TaDa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = TaDa.mp3; sourceTree = "<group>"; };
 		32E980CA275972A900B963A0 /* SpinAndWin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpinAndWin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32E980CD275972A900B963A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		32E980CF275972A900B963A0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -164,7 +185,7 @@
 		32E9814B2759AE3500B963A0 /* AlertError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertError.swift; sourceTree = "<group>"; };
 		32E9814D2759B04900B963A0 /* UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
 		32E9814F2759B3B700B963A0 /* CGVector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGVector.swift; sourceTree = "<group>"; };
-		32E981522759C23100B963A0 /* redemptions.POST.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = redemptions.POST.json; sourceTree = "<group>"; };
+		32E981522759C23100B963A0 /* redemptions.200_off.POST.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = redemptions.200_off.POST.json; sourceTree = "<group>"; };
 		32E981AB2759C9FF00B963A0 /* SpinAndWinStubs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpinAndWinStubs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32E981B02759CAAA00B963A0 /* Stubs-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Stubs-Info.plist"; sourceTree = "<group>"; };
 		32E981B22759D3F100B963A0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -194,6 +215,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		328741A7275DD742007E0B3A /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				328741A8275DD756007E0B3A /* TaDa.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		32E980C1275972A900B963A0 = {
 			isa = PBXGroup;
 			children = (
@@ -250,6 +279,7 @@
 			children = (
 				32E981AD2759CA6A00B963A0 /* PropertyLists */,
 				32E9812A27597F9300B963A0 /* SVG */,
+				328741A7275DD742007E0B3A /* Sounds */,
 				32E980E7275973EB00B963A0 /* Storyboards */,
 			);
 			path = Resources;
@@ -404,7 +434,13 @@
 		32E981512759C1F100B963A0 /* Stubs */ = {
 			isa = PBXGroup;
 			children = (
-				32E981522759C23100B963A0 /* redemptions.POST.json */,
+				32874198275DD43C007E0B3A /* redemptions.free_transfer.POST.json */,
+				3287419B275DD44F007E0B3A /* redemptions.2_free_transfer.POST.json */,
+				3287419E275DD466007E0B3A /* redemptions.3_free_transfer.POST.json */,
+				328741A1275DD46D007E0B3A /* redemptions.4_free_transfer.POST.json */,
+				328741A4275DD476007E0B3A /* redemptions.5_free_transfer.POST.json */,
+				32E981522759C23100B963A0 /* redemptions.200_off.POST.json */,
+				32874195275DD413007E0B3A /* redemptions.scooter.POST.json */,
 			);
 			path = Stubs;
 			sourceTree = "<group>";
@@ -539,13 +575,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				328741A9275DD756007E0B3A /* TaDa.mp3 in Resources */,
 				32E9813B27597FB800B963A0 /* Wheel.svg in Resources */,
 				32E9811B2759777C00B963A0 /* WheelScene.sks in Resources */,
 				32E9813527597FB800B963A0 /* Spin&WinLogo.svg in Resources */,
 				32E9813627597FB800B963A0 /* Ticker.svg in Resources */,
+				328741A5275DD476007E0B3A /* redemptions.5_free_transfer.POST.json in Resources */,
 				32E9813A27597FB800B963A0 /* WheelFull.svg in Resources */,
 				32E98116275976FF00B963A0 /* WheelView.xib in Resources */,
-				32E981532759C23100B963A0 /* redemptions.POST.json in Resources */,
+				32E981532759C23100B963A0 /* redemptions.200_off.POST.json in Resources */,
+				3287419F275DD466007E0B3A /* redemptions.3_free_transfer.POST.json in Resources */,
 				32E9813427597FB800B963A0 /* WheelCentreOR.svg in Resources */,
 				32E9813727597FB800B963A0 /* Congratulations.svg in Resources */,
 				32E980DA275972AA00B963A0 /* LaunchScreen.storyboard in Resources */,
@@ -553,8 +592,12 @@
 				32E9814A27598D3700B963A0 /* authConfig.xcconfig in Resources */,
 				32E9813927597FB800B963A0 /* WheelCentre.svg in Resources */,
 				32E9813827597FB800B963A0 /* Lights2.svg in Resources */,
+				32874199275DD43C007E0B3A /* redemptions.free_transfer.POST.json in Resources */,
 				32E980E9275973FB00B963A0 /* Main.storyboard in Resources */,
+				3287419C275DD44F007E0B3A /* redemptions.2_free_transfer.POST.json in Resources */,
+				328741A2275DD46D007E0B3A /* redemptions.4_free_transfer.POST.json in Resources */,
 				32E9814927598D3700B963A0 /* authConfig.example.xcconfig in Resources */,
+				32874196275DD413007E0B3A /* redemptions.scooter.POST.json in Resources */,
 				32E9813C27597FB800B963A0 /* Lights1.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -570,16 +613,23 @@
 				32E9819A2759C9FF00B963A0 /* WheelFull.svg in Resources */,
 				32E9819B2759C9FF00B963A0 /* WheelView.xib in Resources */,
 				32E981B12759CAAA00B963A0 /* Stubs-Info.plist in Resources */,
-				32E9819C2759C9FF00B963A0 /* redemptions.POST.json in Resources */,
+				32E9819C2759C9FF00B963A0 /* redemptions.200_off.POST.json in Resources */,
 				32E9819D2759C9FF00B963A0 /* WheelCentreOR.svg in Resources */,
 				32E9819E2759C9FF00B963A0 /* Congratulations.svg in Resources */,
 				32E9819F2759C9FF00B963A0 /* LaunchScreen.storyboard in Resources */,
+				328741A6275DD476007E0B3A /* redemptions.5_free_transfer.POST.json in Resources */,
+				328741A0275DD466007E0B3A /* redemptions.3_free_transfer.POST.json in Resources */,
 				32E981A02759C9FF00B963A0 /* Assets.xcassets in Resources */,
+				32874197275DD413007E0B3A /* redemptions.scooter.POST.json in Resources */,
+				3287419D275DD44F007E0B3A /* redemptions.2_free_transfer.POST.json in Resources */,
+				328741A3275DD46D007E0B3A /* redemptions.4_free_transfer.POST.json in Resources */,
+				328741AA275DD756007E0B3A /* TaDa.mp3 in Resources */,
 				32E981A12759C9FF00B963A0 /* authConfig.xcconfig in Resources */,
 				32E981A22759C9FF00B963A0 /* WheelCentre.svg in Resources */,
 				32E981A32759C9FF00B963A0 /* Lights2.svg in Resources */,
 				32E981A42759C9FF00B963A0 /* Main.storyboard in Resources */,
 				32E981A52759C9FF00B963A0 /* authConfig.example.xcconfig in Resources */,
+				3287419A275DD43C007E0B3A /* redemptions.free_transfer.POST.json in Resources */,
 				32E981A62759C9FF00B963A0 /* Lights1.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
